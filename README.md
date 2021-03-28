@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Telegram-Channel-blue.svg)](https://t.me/osintgram)
 
 # Osintgram
-Osintgram is a **OSINT** tool on Instagram.
+Osintgram is a **OSINT** tool on Instagram.  My version 
 
 **I don't assume any responsability for the use of this tool**
 
